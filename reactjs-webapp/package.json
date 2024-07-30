@@ -7,7 +7,7 @@
     "@aws-amplify/core": "3.2.7",
     "antd": "4.2.2",
     "@ant-design/icons": "4.1.0",
-    "aws-amplify": "3.0.11",
+    "aws-amplify": "5.3.4",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-router": "5.1.2",
